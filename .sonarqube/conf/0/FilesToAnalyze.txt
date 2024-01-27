@@ -1,0 +1,10 @@
+﻿D:\dev\ws_dotnet\Microservicios\Arquitectura.Core\src\Arquitectura.Core\Abstractions\IBase.cs
+D:\dev\ws_dotnet\Microservicios\Arquitectura.Core\src\Arquitectura.Core\Abstractions\IDtoBase.cs
+D:\dev\ws_dotnet\Microservicios\Arquitectura.Core\src\Arquitectura.Core\Abstractions\IDtoInteger.cs
+D:\dev\ws_dotnet\Microservicios\Arquitectura.Core\src\Arquitectura.Core\Abstractions\IDtoLong.cs
+D:\dev\ws_dotnet\Microservicios\Arquitectura.Core\src\Arquitectura.Core\Abstractions\IEntityBase.cs
+D:\dev\ws_dotnet\Microservicios\Arquitectura.Core\src\Arquitectura.Core\Abstractions\IEntityInteger.cs
+D:\dev\ws_dotnet\Microservicios\Arquitectura.Core\src\Arquitectura.Core\Abstractions\IEntityLong.cs
+D:\dev\ws_dotnet\Microservicios\Arquitectura.Core\src\Arquitectura.Core\Abstractions\IStartupService.cs
+D:\dev\ws_dotnet\Microservicios\Arquitectura.Core\src\Arquitectura.Core\Models\Pager\Pager.cs
+D:\dev\ws_dotnet\Microservicios\Arquitectura.Core\src\Arquitectura.Core\Models\Pager\Parameters.cs

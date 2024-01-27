@@ -1,0 +1,1 @@
+D:\dev\ws_dotnet\Microservicios\Arquitectura.Core\.sonarqube\out\1
