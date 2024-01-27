@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>    
+  <PropertyGroup>
+    <ProjectGuid>EEA46204-7F1B-4FBD-BC6D-A079A2B7F735</ProjectGuid>
     <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 
