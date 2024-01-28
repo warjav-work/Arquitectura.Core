@@ -363,5 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # SonarQube
-/.sonarqube
+.sonarqube
+.sonarqube/config
+
 coverage.opencover.xml
