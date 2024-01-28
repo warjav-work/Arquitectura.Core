@@ -364,6 +364,6 @@ FodyWeavers.xsd
 
 # SonarQube
 .sonarqube
-.sonarqube/config
+.sonarqube/conf
 
 coverage.opencover.xml
